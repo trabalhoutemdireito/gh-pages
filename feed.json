@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Trabalhou tem Direito",
+    "description": "",
+    "home_page_url": "https://www.trabalhoutemdireito.com.br",
+    "feed_url": "https://www.trabalhoutemdireito.com.br/feed.json",
+    "user_comment": "",
+    "icon": "https://www.trabalhoutemdireito.com.br/media/website/trabalhou-tem-direito-2.png",
+    "author": {
+        "name": "Kaik James"
+    },
+    "items": [
+    ]
+}
